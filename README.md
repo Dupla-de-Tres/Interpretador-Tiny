@@ -57,8 +57,8 @@ A linguagem possui comentários de uma linha a partir do símbolo #.
 
 Para executar o programa, é necessário inserir os seguintes comandos:
 
-- cd Tiny
-- python3 main.py
+- ``` cd Tiny ```
+- ``` python3 main.py ```
 
 Exemplo de saída utilizando somatorio.tiny:
 
