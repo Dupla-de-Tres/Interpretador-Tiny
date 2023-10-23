@@ -75,6 +75,11 @@ Vale ressaltar que, para executar cada exemplo, é necessário mudar o nome do a
 
 Por fim, a linguagem Tiny mostrou-se eficiente para a implementação de um interpretador. O interpretador é capaz de interpretar programas Tiny simples e complexos de forma rápida e precisa.
 
+<h2>Contatos</h2>
+
+<i>marcosjoaohess@gmail.com</i>
+<i>vramoscabral2020@gmail.com</i>
+
 <h2>Referências</h2>
 
 <p>(1) ASCANIO, DIEGO - Repositório GitHub, @DiegoAscanio: interpretador Tiny Incompleto - Disponível em: https://github.com/DiegoAscanio/interpretador-tiny-incompleto. Acessado em 20 de Outubro de 2023.</p>
