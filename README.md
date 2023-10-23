@@ -77,8 +77,8 @@ Por fim, a linguagem Tiny mostrou-se eficiente para a implementação de um inte
 
 <h2>Contatos</h2>
 
-<i>marcosjoaohess@gmail.com</i>
-<i>vramoscabral2020@gmail.com</i>
+<p><i>marcosjoaohess@gmail.com</i></p>
+<p><i>vramoscabral2020@gmail.com</i></p>
 
 <h2>Referências</h2>
 
