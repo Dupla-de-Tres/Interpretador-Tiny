@@ -73,11 +73,14 @@ Exemplo de saída utilizando somatorio.tiny:
 
 Vale ressaltar que, para executar cada exemplo, é necessário mudar o nome do arquivo de exemplo na variável("name"), contida dentro do arquivo main.py.
 
+Por fim, a linguagem Tiny mostrou-se eficiente para a implementação de um interpretador. O interpretador é capaz de interpretar programas Tiny simples e complexos de forma rápida e precisa.
 
+<h2>Referências</h2>
 
+<p>(1) ASCANIO, DIEGO - Repositório GitHub, @DiegoAscanio: interpretador Tiny Incompleto - Disponível em: https://github.com/DiegoAscanio/interpretador-tiny-incompleto. Acessado em 20 de Outubro de 2023.</p>
 
+<p>(2) ASCANIO, DIEGO - Repositório GitHub, @DiegoAscanio: Analizador Lexico Exemplo - Disponível em: https://github.com/DiegoAscanio/analisador-lexico-exemplo. Acessado em 20 de Outubro de 2023.</p>
 
-
-
+<p>(3) RIMSA, ANDREI - Repositório GitHub, @rimsa: tiny - Disponível em: https://github.com/rimsa/tiny. Acessado em 20 de Outubro de 2023.</p>
 
 
