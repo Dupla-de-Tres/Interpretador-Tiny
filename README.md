@@ -53,7 +53,25 @@ As expressões aritméticas suportadas são:
 A linguagem possui comentários de uma linha a partir do símbolo #.
 
 
+<h2>Execução</h2>
 
+Para executar o programa, é necessário inserir os seguintes comandos:
+
+- cd Tiny
+- python3 main.py
+
+Exemplo de saída utilizando somatorio.tiny:
+
+4
+8
+15
+16
+23
+42
+0
+108
+
+Vale ressaltar que, para executar cada exemplo, é necessário mudar o nome do arquivo de exemplo na variável("name"), contida dentro do arquivo main.py.
 
 
 
