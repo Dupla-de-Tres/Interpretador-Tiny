@@ -258,6 +258,13 @@ class Parser:
             object_right = self.procIntTerm()
             object_left = Binary_Int_Expr (line, object_left, op, object_right)
 
+        elif self.token_aux.tipo_token == TipoToken.POW:
+            op = Binary_Int_Expr.Operators.POW
+
+            self.incrementar()
+            object_right = self.procIntTerm()
+            object_left = Binary_Int_Expr (line, object_left, op, object_right)
+
         return object_left
 
     # <intterm> ::= <var> | <const> | read
