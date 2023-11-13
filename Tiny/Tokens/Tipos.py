@@ -27,6 +27,7 @@ TipoToken = Enum(
   'MUL',           # *
   'DIV',           # /
   'MOD',           # %
+  'POW',           # ^
 
   # Palavras-Chave
   'PROGRAM',       # program
