@@ -121,6 +121,8 @@ class Binary_Int_Expr (Expr):
             return int(expr1 / expr2)
         elif self.operation == self.Operators.MOD:
             return expr1 % expr2
+        elif self.operation == self.Operators.POW:
+            return expr1 ** expr2
 
 
 class Variable (Expr):	
