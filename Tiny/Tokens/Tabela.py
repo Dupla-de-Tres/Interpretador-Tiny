@@ -22,6 +22,7 @@ tabela_de_tokens = {
   '*': TipoToken.MUL,
   '/': TipoToken.DIV,
   '%': TipoToken.MOD,
+  '^': TipoToken.POW,
 
   # Palavras-chave da linguagem Tiny
   'program': TipoToken.PROGRAM,
