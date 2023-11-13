@@ -1,0 +1,10 @@
+program
+base = read;
+exp = read;
+i = 1;
+num = base;
+while i < exp do
+    num = base*num;
+    i = i + 1;
+done;
+output num;
